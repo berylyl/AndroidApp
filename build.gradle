@@ -1,0 +1,62 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        //jcenter()
+        mavenLocal()
+        maven {
+            url "http://repo.alibaba-inc.com/nexus/content/groups/b2brepository/"
+        }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.2'
+
+        //配置Android annotations
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        classpath 'com.kageiit:robojava-plugin:1.2.2'
+        classpath 'de.undercouch:gradle-download-task:1.2'
+    }
+}
+
+
+
+
+allprojects {
+    apply plugin: "eclipse"
+    apply plugin: 'idea'
+    apply plugin: 'maven'
+
+    repositories {
+        mavenLocal()
+        maven {
+            url "http://repo.alibaba-inc.com/nexus/content/groups/b2brepository/"
+        }
+        mavenCentral()
+    }
+    task releaseJar(type: Copy) {
+        if(!projectDir.equals(rootDir) && new File(buildDir, 'intermediates/bundles/release/classes.jar').exists()){
+            from(new File(buildDir, 'intermediates/bundles/release')){
+                include 'classes.jar'
+            }
+            into new File(buildDir, 'libs')
+            rename('^classes.jar$', 'pop-' + project.name + '-' + version+'.jar')
+        }
+    }
+    task releaseLib(type: Copy, dependsOn: releaseJar) {
+        if(!projectDir.equals(rootDir) && (new File(buildDir, 'libs').exists()||new File(buildDir, 'intermediates/bundles/release/classes.jar').exists())){
+            from('libs'){
+                include '*.jar'
+                include 'armeabi/*.so'
+                exclude 'android-support-v4.jar'
+            }
+            from new File(buildDir, 'libs')
+            into new File(rootDir, "build/libs")
+            rename('^'+project.name + '-' + version + '.jar$', 'pop-' + project.name + '-' + version + '.jar')
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

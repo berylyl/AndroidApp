@@ -1,0 +1,4 @@
+当前目录下无配置文件，使用全局配置
+签名信息缺失,请 mtbql config 输入签名信息
+全局配置为: api:mtop.taobao.rodimus.graphql.gate; v:1.0
+Started on port: 80

@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="myarray">
+        <item>语文</item>
+        <item>数学</item>
+        <item>英语</item>
+    </string-array>
+</resources>

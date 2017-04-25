@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b24de56c82d97967f0dfeecc7d81f9a8c3220733/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_18524bc0880278eafcf85de1cf49ef38052efe6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/.gradle/caches/modules-2/files-2.1/com.taobao.android/windvane/8.0.0/836606bbebcb6118717782b9380a2b5490a6fc74/windvane-8.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="836606bbebcb6118717782b9380a2b5490a6fc74">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/windvane-8.0.0_69008cbe0cfd981078f4635259fecfda677a276c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.3.2/7d6149d856b880bbd676047aacb8446a758fbbdb/androidannotations-api-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-3.3.2_570197cdc606812fb83357b1ceb7902d3880671d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_b0a9a21aab7766cbddcd3d3af9fae52d38a1e0be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eadab67d8a394a0535a75f623b339a46566b0682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d794b607ea1b11f0431d4667b0f01ef5da002085">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fcbbaf32d845272aed45c094fa594195b66f5aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_118040a8dfb2383f915e1ae14a4e3576cbde9901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6972972763fcc683ac39dd2e0a7b27d7b62dee13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_3d81c8e0b138d530566d5ce758b50a7f252bd566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1807b7f9eabfdb8c09d25aa22fc97d42edcfa46f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_229bdab03c569a7db86d261a3682c679bf336fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72e54c25377b60ba07560259a6023755dd0fa237">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_86287828218ec38c759cd7de7d1b847ed772917d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6bb4c6a50626b0bb7dbf76920d2f8f83767a64a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="14f38ac46cff6f6ca441812723b158d2154da7fd">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64112bf2019c85c2b6b0dd98e8700f5b7c1cdd2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ca3e64074411c2f735b704452ee2d1b7d11508a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_87be7e306e440f762edec09c7f1d2d2625a74a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fbb7f9e18b8e3788806a9f3b810f4161ddfce534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d76fedf5295a372fe6910b47dde15678f3d564c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_0c4e9e60829424fb9c3f5832357e4beb46128b0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_0787c285c66831b4e433aae6dac97e88bfcad0b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a513cccb83be875b3eafa32bef654984c298c2ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85750e0b4f5de306384c13c5bbe38b8d9ba7d406">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b87ed2c37f67933483f74cf8c3387ab081f7a12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_619ba8ce1d4b234fe613a01feb1233eb9deba3ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_313dfa2b674d60119c3bd489d3d9cf456e9cf27e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/YJT/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/beryl/lvming/YJT/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b224d7202a1e9f949550d4381178df215dc871d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/beryl/lvming/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/beryl/lvming/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ec705db671b7340edf3b0282dc16d41fb0b9b374/classes.dex" />
+    </item>
+
+</items>
